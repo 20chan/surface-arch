@@ -1,5 +1,10 @@
 # surface-arch
 
+### CURRENTLY ARCHIVED
+
+서피스에서 윈도우 최대절전모드마저 작동을 안하고 리눅스 환경에서 배터리를 너무 많이 먹고 실수로 켜졌을때 어떻게 할 수 없는게 너무 컸다
+지금은 리눅스 지우고 윈도우만 쓰고 있음
+
 본격 서피스북2에 리눅스깔고 뻘짓거리하기 프로젝트
 
 역시 할일은 [이슈](https://github.com/20chan/surface-arch/issues)로 관리
