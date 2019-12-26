@@ -1,0 +1,8 @@
+# polybar mybar &
+
+# ~/.config/polybar/launch.sh
+dunst &
+touchegg &
+fusuma &
+conky --daemonize
+tint2 &

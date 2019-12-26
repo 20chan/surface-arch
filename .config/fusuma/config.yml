@@ -1,0 +1,16 @@
+swipe:
+    3:
+        left:
+            command: 'xdotool key alt+Tab'
+        right:
+            command: 'xdotool key shift+alt+Tab'
+        up:
+            command: 'xdotool key super+m'
+        down:
+            command: 'xdotool key super+d'
+    4:
+        left:
+            command: 'xdotool key ctrl+alt+Right'
+        right:
+            command: 'xdotool key ctrl+alt+Left'
+
